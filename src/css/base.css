@@ -1,0 +1,24 @@
+:root {
+    --color-main-red: #ff3839;
+    --color-black-202020: #202020;
+    --color-gray-background: #f8f8f8;
+    --color-light-red: #333335;
+    --color-light-black: #696969;
+    --body-color: #fff;
+    --title-color: #000000;
+    --line-color: #d8d8d8;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    color: var(--color-light-black);
+    background-color: var(--body-color);
+  }
+  
+  .container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
